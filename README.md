@@ -66,7 +66,7 @@ https://github.com/Nikolai-Nemkov/-Hotes-app-21.03.24/blob/main/notes.csv
 
 ## ui
 
-
+https://github.com/Nikolai-Nemkov/-Hotes-app-21.03.24/blob/main/ui.py
 
 
 
