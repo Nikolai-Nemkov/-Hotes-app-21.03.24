@@ -68,6 +68,8 @@ https://github.com/Nikolai-Nemkov/-Hotes-app-21.03.24/blob/main/notes.csv
 
 https://github.com/Nikolai-Nemkov/-Hotes-app-21.03.24/blob/main/ui.py
 
+## notes.csv
+
 
 
 
